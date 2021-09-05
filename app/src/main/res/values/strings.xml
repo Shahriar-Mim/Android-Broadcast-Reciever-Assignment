@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment 2.2 17101463</string>
+    <string name="button">SELECT</string>
+    <string name="button_op1">Recieve Broadcast</string>
+    <string name="textview">TextView</string>
+    <string name="hint_txt_op1">Please input a message to broadcast</string>
+    <string name="act2_op1_hintText">Please Input Text</string>
+    <string name="wifi_is_off">WiFi is OFF</string>
+    <string name="input_battary_percentage">Please input battary percentage(without \'%\')</string>
+    <string name="sendBattary">SEND</string>
+    <string-array name="BroadcastReceive">
+        <item>Custom broadcast receiver</item>
+        <item>Wifi RTT state change receiver</item>
+        <item>System battery notification receiver</item>
+    </string-array>
+</resources>

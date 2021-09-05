@@ -1,0 +1,3 @@
+rootProject.name = "broadcastRecievers"
+include ':app'
+include ':broadcastrecieverapp_op1'
